@@ -1,0 +1,561 @@
+[ INFO ] [2020-05-09 09:43:02] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 1116 (D:\usercontroller\target\classes started by Administrator in D:\usercontroller)
+[ INFO ] [2020-05-09 09:43:02] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 09:43:02] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 09:43:02] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 09:43:02] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 09:43:03] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 09:43:03] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 09:43:03] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 09:43:03] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 09:43:03] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 09:43:03] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1609 ms
+[ INFO ] [2020-05-09 09:43:04] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 09:43:05] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 09:43:05] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 09:43:05] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.321 seconds (JVM running for 4.224)
+[ INFO ] [2020-05-09 09:43:13] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 09:43:13] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 09:43:13] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 10 ms
+[ INFO ] [2020-05-09 09:43:13] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 09:43:13] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ INFO ] [2020-05-09 09:43:14] io.lettuce.core.EpollProvider [68] - Starting without optional epoll library
+[ INFO ] [2020-05-09 09:43:14] io.lettuce.core.KqueueProvider [70] - Starting without optional kqueue library
+[ INFO ] [2020-05-09 10:57:20] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 10208 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 10:57:20] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 10:57:21] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 10:57:21] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 10:57:21] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 10:57:22] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 10:57:22] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 10:57:22] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 10:57:22] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 10:57:22] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 10:57:22] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1371 ms
+[ INFO ] [2020-05-09 10:57:23] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 10:57:23] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 10:57:23] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 10:57:23] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.234 seconds (JVM running for 5.177)
+[ INFO ] [2020-05-09 10:58:23] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 6080 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 10:58:23] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 10:58:24] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 10:58:24] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 10:58:24] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 10:58:25] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 10:58:25] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 10:58:25] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 10:58:25] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 10:58:25] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 10:58:25] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1706 ms
+[ INFO ] [2020-05-09 10:58:26] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 10:58:26] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 10:58:26] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 10:58:26] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.491 seconds (JVM running for 4.522)
+[ INFO ] [2020-05-09 11:02:23] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:02:23] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:02:23] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 9 ms
+[ WARN ] [2020-05-09 11:02:23] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[ INFO ] [2020-05-09 11:02:46] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 11:02:47] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ WARN ] [2020-05-09 11:06:17] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[ INFO ] [2020-05-09 11:25:25] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 1972 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 11:25:25] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 11:25:26] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 11:25:26] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 11:25:26] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 11:25:26] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 11:25:26] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:25:26] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 11:25:26] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 11:25:26] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 11:25:26] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1561 ms
+[ INFO ] [2020-05-09 11:25:27] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 11:25:28] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:25:28] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 11:25:28] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.296 seconds (JVM running for 4.245)
+[ INFO ] [2020-05-09 11:25:34] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:25:34] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:25:34] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 6 ms
+[ INFO ] [2020-05-09 11:25:34] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 11:25:35] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ INFO ] [2020-05-09 11:32:18] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 1820 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 11:32:18] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 11:32:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 11:32:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 11:32:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 11:32:20] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 11:32:20] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:32:20] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 11:32:20] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 11:32:20] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 11:32:20] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1717 ms
+[ INFO ] [2020-05-09 11:32:21] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 11:32:22] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:32:22] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 11:32:22] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.623 seconds (JVM running for 4.536)
+[ INFO ] [2020-05-09 11:33:31] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 6780 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 11:33:31] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 11:33:32] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 11:33:32] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 11:33:32] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 11:33:32] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 11:33:32] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:33:32] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 11:33:32] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 11:33:33] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 11:33:33] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1693 ms
+[ INFO ] [2020-05-09 11:33:33] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 11:33:34] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 11:33:34] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 11:33:34] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.594 seconds (JVM running for 4.669)
+[ INFO ] [2020-05-09 11:33:50] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:33:50] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 11:33:50] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 7 ms
+[ INFO ] [2020-05-09 11:33:50] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 11:33:51] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ ERROR] [2020-05-09 11:54:32] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'page' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'page' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ ERROR] [2020-05-09 11:54:52] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'packageName' in 'class com.dangdang.usercontroller.entity.Pam.InsMerchantPam'] with root cause
+org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'packageName' in 'class com.dangdang.usercontroller.entity.Pam.InsMerchantPam'
+	at org.apache.ibatis.reflection.Reflector.getGetInvoker(Reflector.java:373)
+	at org.apache.ibatis.reflection.MetaClass.getGetInvoker(MetaClass.java:163)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.getBeanProperty(BeanWrapper.java:162)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.get(BeanWrapper.java:49)
+	at org.apache.ibatis.reflection.MetaObject.getValue(MetaObject.java:122)
+	at org.apache.ibatis.scripting.defaults.DefaultParameterHandler.setParameters(DefaultParameterHandler.java:79)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.parameterize(PreparedStatementHandler.java:94)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.parameterize(RoutingStatementHandler.java:64)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:88)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy94.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy71.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:271)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:144)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy84.insertMerchant(Unknown Source)
+	at com.dangdang.usercontroller.service.impl.MerchantServiceImpl.addMerchant(MerchantServiceImpl.java:121)
+	at com.dangdang.usercontroller.controller.MerchantController.addMerchant(MerchantController.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ INFO ] [2020-05-09 12:01:44] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 6944 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 12:01:44] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 12:01:45] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 12:01:45] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 12:01:45] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 12:01:46] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 12:01:46] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:01:46] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 12:01:46] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 12:01:46] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 12:01:46] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1836 ms
+[ INFO ] [2020-05-09 12:01:47] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 12:01:47] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:01:48] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 12:01:48] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.686 seconds (JVM running for 4.659)
+[ INFO ] [2020-05-09 12:02:13] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:02:13] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:02:13] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 7 ms
+[ WARN ] [2020-05-09 12:02:13] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [199] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'insMerchantPam' on field 'enabled': rejected value []; codes [typeMismatch.insMerchantPam.enabled,typeMismatch.enabled,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [insMerchantPam.enabled,enabled]; arguments []; default message [enabled]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'int' for property 'enabled'; nested exception is java.lang.NumberFormatException: For input string: ""]]
+[ INFO ] [2020-05-09 12:02:24] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 12:02:25] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ ERROR] [2020-05-09 12:02:39] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'enable' in 'class com.dangdang.usercontroller.entity.Pam.InsMerchantPam'] with root cause
+org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'enable' in 'class com.dangdang.usercontroller.entity.Pam.InsMerchantPam'
+	at org.apache.ibatis.reflection.Reflector.getGetInvoker(Reflector.java:373)
+	at org.apache.ibatis.reflection.MetaClass.getGetInvoker(MetaClass.java:163)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.getBeanProperty(BeanWrapper.java:162)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.get(BeanWrapper.java:49)
+	at org.apache.ibatis.reflection.MetaObject.getValue(MetaObject.java:122)
+	at org.apache.ibatis.scripting.defaults.DefaultParameterHandler.setParameters(DefaultParameterHandler.java:79)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.parameterize(PreparedStatementHandler.java:94)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.parameterize(RoutingStatementHandler.java:64)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:88)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:49)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy95.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy71.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:271)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:144)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy84.insertMerchant(Unknown Source)
+	at com.dangdang.usercontroller.service.impl.MerchantServiceImpl.addMerchant(MerchantServiceImpl.java:121)
+	at com.dangdang.usercontroller.controller.MerchantController.addMerchant(MerchantController.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ INFO ] [2020-05-09 12:05:18] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 2848 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 12:05:18] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 12:05:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 12:05:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 12:05:19] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 12:05:20] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 12:05:20] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:05:20] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 12:05:20] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 12:05:20] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 12:05:20] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1841 ms
+[ INFO ] [2020-05-09 12:05:21] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 12:05:21] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:05:21] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 12:05:21] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.936 seconds (JVM running for 4.832)
+[ INFO ] [2020-05-09 12:05:30] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:05:30] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:05:30] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 6 ms
+[ INFO ] [2020-05-09 12:05:30] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 12:05:31] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ WARN ] [2020-05-09 12:05:33] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [199] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'insMerchantPam' on field 'enabled': rejected value []; codes [typeMismatch.insMerchantPam.enabled,typeMismatch.enabled,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [insMerchantPam.enabled,enabled]; arguments []; default message [enabled]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'int' for property 'enabled'; nested exception is java.lang.NumberFormatException: For input string: ""]]
+[ ERROR] [2020-05-09 12:05:46] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.alibaba.fastjson.JSONException: syntax error, pos 1, json : InsMerchantPam(merchantNum=12345, merchantName=拼多多, createTime=2020-05-09 12:05:46, updateTime=2020-05-09 12:05:46, enabled=0)] with root cause
+com.alibaba.fastjson.JSONException: syntax error, pos 1, json : InsMerchantPam(merchantNum=12345, merchantName=拼多多, createTime=2020-05-09 12:05:46, updateTime=2020-05-09 12:05:46, enabled=0)
+	at com.alibaba.fastjson.parser.DefaultJSONParser.parse(DefaultJSONParser.java:1436)
+	at com.alibaba.fastjson.parser.DefaultJSONParser.parse(DefaultJSONParser.java:1322)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:152)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:162)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:131)
+	at com.dangdang.usercontroller.service.impl.MerchantServiceImpl.addMerchant(MerchantServiceImpl.java:125)
+	at com.dangdang.usercontroller.controller.MerchantController.addMerchant(MerchantController.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ ERROR] [2020-05-09 12:06:43] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [175] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.alibaba.fastjson.JSONException: syntax error, pos 1, json : InsMerchantPam(merchantNum=12345, merchantName=拼多多, createTime=2020-05-09 12:06:43, updateTime=2020-05-09 12:06:43, enabled=0)] with root cause
+com.alibaba.fastjson.JSONException: syntax error, pos 1, json : InsMerchantPam(merchantNum=12345, merchantName=拼多多, createTime=2020-05-09 12:06:43, updateTime=2020-05-09 12:06:43, enabled=0)
+	at com.alibaba.fastjson.parser.DefaultJSONParser.parse(DefaultJSONParser.java:1436)
+	at com.alibaba.fastjson.parser.DefaultJSONParser.parse(DefaultJSONParser.java:1322)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:152)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:162)
+	at com.alibaba.fastjson.JSON.parse(JSON.java:131)
+	at com.dangdang.usercontroller.service.impl.MerchantServiceImpl.addMerchant(MerchantServiceImpl.java:125)
+	at com.dangdang.usercontroller.controller.MerchantController.addMerchant(MerchantController.java:63)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+[ INFO ] [2020-05-09 12:06:56] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 8240 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 12:06:56] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 12:06:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 12:06:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 12:06:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 12:06:57] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 12:06:57] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:06:57] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 12:06:57] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 12:06:57] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 12:06:57] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1608 ms
+[ INFO ] [2020-05-09 12:06:58] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 12:06:59] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:06:59] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 12:06:59] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.484 seconds (JVM running for 4.447)
+[ INFO ] [2020-05-09 12:07:04] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:07:04] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:07:04] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 7 ms
+[ INFO ] [2020-05-09 12:07:04] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 12:07:04] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ INFO ] [2020-05-09 12:16:56] com.dangdang.usercontroller.UsercontrollerApplication [55] - Starting UsercontrollerApplication on PC-20200331AHEJ with PID 6812 (D:\ad-sdk\usercontroller\target\classes started by Administrator in D:\ad-sdk\usercontroller)
+[ INFO ] [2020-05-09 12:16:56] com.dangdang.usercontroller.UsercontrollerApplication [651] - No active profile set, falling back to default profiles: default
+[ INFO ] [2020-05-09 12:16:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[ INFO ] [2020-05-09 12:16:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[ INFO ] [2020-05-09 12:16:57] org.springframework.data.repository.config.RepositoryConfigurationDelegate [187] - Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+[ INFO ] [2020-05-09 12:16:57] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2020-05-09 12:16:57] org.apache.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:16:57] org.apache.catalina.core.StandardService [173] - Starting service [Tomcat]
+[ INFO ] [2020-05-09 12:16:57] org.apache.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+[ INFO ] [2020-05-09 12:16:57] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+[ INFO ] [2020-05-09 12:16:57] org.springframework.web.context.ContextLoader [284] - Root WebApplicationContext: initialization completed in 1523 ms
+[ INFO ] [2020-05-09 12:16:58] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] - Initializing ExecutorService 'applicationTaskExecutor'
+[ INFO ] [2020-05-09 12:16:59] org.apache.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+[ INFO ] [2020-05-09 12:16:59] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] - Tomcat started on port(s): 8080 (http) with context path ''
+[ INFO ] [2020-05-09 12:16:59] com.dangdang.usercontroller.UsercontrollerApplication [61] - Started UsercontrollerApplication in 3.284 seconds (JVM running for 4.226)
+[ INFO ] [2020-05-09 12:17:02] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:17:02] org.springframework.web.servlet.DispatcherServlet [525] - Initializing Servlet 'dispatcherServlet'
+[ INFO ] [2020-05-09 12:17:02] org.springframework.web.servlet.DispatcherServlet [547] - Completed initialization in 0 ms
+[ INFO ] [2020-05-09 12:17:02] com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+[ INFO ] [2020-05-09 12:17:03] com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+[ WARN ] [2020-05-09 12:24:07] com.zaxxer.hikari.pool.HikariPool [779] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m33s721ms746µs100ns).
+[ WARN ] [2020-05-09 12:26:29] com.zaxxer.hikari.pool.HikariPool [779] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m21s241ms695µs).
+[ WARN ] [2020-05-09 12:30:12] com.zaxxer.hikari.pool.HikariPool [779] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s567ms920µs701ns).
+[ WARN ] [2020-05-09 12:47:43] com.zaxxer.hikari.pool.HikariPool [779] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m31s343ms364µs300ns).
